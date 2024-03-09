@@ -1,0 +1,15 @@
+2024-01-18T22:04:39.409355+0300 DEBUG list index out of range
+2024-01-18T22:04:39.986099+0300 DEBUG list index out of range
+2024-01-18T22:04:40.557553+0300 DEBUG list index out of range
+2024-01-18T22:05:45.577442+0300 DEBUG (IndexError('list index out of range'), 3)
+2024-01-18T22:05:46.145526+0300 DEBUG (IndexError('list index out of range'), 4)
+2024-01-18T22:05:46.717704+0300 DEBUG (IndexError('list index out of range'), 5)
+2024-01-18T22:12:54.406413+0300 DEBUG (IndexError('list index out of range'), 3)
+2024-01-18T22:12:54.977671+0300 DEBUG (IndexError('list index out of range'), 4)
+2024-01-18T22:12:55.558818+0300 DEBUG (IndexError('list index out of range'), 5)
+2024-01-18T22:15:29.543663+0300 DEBUG (IndexError('list index out of range'), 3)
+2024-01-18T22:15:30.117208+0300 DEBUG (IndexError('list index out of range'), 4)
+2024-01-18T22:15:30.703274+0300 DEBUG (IndexError('list index out of range'), 5)
+2024-01-18T22:17:51.721885+0300 DEBUG (IndexError('list index out of range'), 3)
+2024-01-18T22:17:52.292878+0300 DEBUG (IndexError('list index out of range'), 4)
+2024-01-18T22:17:52.857785+0300 DEBUG (IndexError('list index out of range'), 5)
